@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+    background-image: url(https://hanumanimages.com/wp-content/uploads/2023/04/angry-hanuman-face-art-364x647.jpg);
+    background-repeat: no-repeat;
+    
+
+}
+button{
+    background-color: aqua;
+    border-radius: 8px;
+    cursor: pointer;
+    padding-left: 12px;
+    padding-right: 12px;
+}
